@@ -1,0 +1,14 @@
+.navbar{
+    background-color: rgb(28, 51, 67) ! important;
+}
+.vert{
+    color: rgb(28, 51, 67);
+}
+.btn-info{
+    background-color: rgb(28, 51, 67) ! important;
+    color: white;
+}
+.btn-danger{
+    background-color: rgb(168, 53, 53) ! important;
+    color: black;
+}
